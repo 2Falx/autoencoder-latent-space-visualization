@@ -1,3 +1,6 @@
 *.h5
 *_train.npy
 *_test.npy
+
+data/
+*.ipynb
